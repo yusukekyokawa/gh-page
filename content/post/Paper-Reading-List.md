@@ -1,7 +1,7 @@
 ---
 title: "Paper Reading List"
 date: 2020-06-03T21:47:11+09:00
-draft: true
+draft: false
 ---
 
 月ごとの読んだ論文リストをまとめ

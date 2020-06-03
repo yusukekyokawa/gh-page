@@ -93,7 +93,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "wiki"
     name = "Paper Reading List"
-    url = "post/paper-reading-list"
+    url = "post/paper-reading-list/"
     weight = 1    
 
 
